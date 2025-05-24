@@ -10,6 +10,12 @@ Kullanıcılar araç bilgilerini ekleyebilir, listeleyebilir, güncelleyebilir v
 - Araç bilgilerini güncelleme
 - Araç silme
 
+##görseller
+  
+![Ekran görüntüsü 2025-05-24 145432](https://github.com/user-attachments/assets/11cfb39f-aa11-4ae7-8c74-9307d8c25824)
+![Ekran görüntüsü 2025-05-24 145447](https://github.com/user-attachments/assets/a1912e95-a514-416d-b5c6-8204b42cfb3c)
+![Ekran görüntüsü 2025-05-24 145605](https://github.com/user-attachments/assets/d3caca8e-59db-4b57-a6d9-29e2e7fb4223)
+
 ## Kurulum ve Çalıştırma
 
 1. Gerekli paketleri yükleyin:
@@ -18,6 +24,6 @@ Kullanıcılar araç bilgilerini ekleyebilir, listeleyebilir, güncelleyebilir v
 pip install -r requirements.txt
 
 
-![Ekran görüntüsü 2025-05-24 145432](https://github.com/user-attachments/assets/b5d84858-2a6d-4ddb-ac90-0c27d4972ceb)
-![Ekran görüntüsü 2025-05-24 145447](https://github.com/user-attachments/assets/a293a8e0-ff0d-4b05-8e99-535bf2248983)
-![Ekran görüntüsü 2025-05-24 145605](https://github.com/user-attachments/assets/c9342ebd-1e4d-454c-8060-235e4597af10)
+
+
+
