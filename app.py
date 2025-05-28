@@ -94,6 +94,5 @@ def update_car(id):
         car = cursor.fetchone()
 
     return render_template('update_car.html', car=car)
-
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run("0.0.0.0", port=5000, debug=True)
